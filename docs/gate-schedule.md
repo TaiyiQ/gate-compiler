@@ -16,7 +16,9 @@ The compiler is independent of any vendor SDK. It will define its own intermedia
 
 ## Hardware Contraints
 
-- [ ] AI generated. Get the actual values from engineers.
+- [ ] At what level does timing sit. Gate compiler or Pulse compiler?
+	- [ ] Can we control the speed of which AOD moves?
+	- [ ] Can we select if the AOD picks up a row or a col?
 
 | Constant                    | Default | Unit  | Physical meaning                  |
 | --------------------------- | ------- | ----- | --------------------------------- |
